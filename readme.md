@@ -159,7 +159,7 @@ Aplicação em Produção
 ## Clone o repositório
 
 ```bash
-git clone https://github.com/leticia-gomes/projeto-computacao-nuvem.git
+git clone https://github.com/leticia-gomes/webinar-nodejs-azure-cloud.git
 ```
 
 Entre na pasta:
